@@ -1,0 +1,99 @@
+.frete {
+    text-align: center;
+    background-color: #484848;
+    font-size: small;
+    font-weight: bold;
+    color: #fff;
+}
+
+.frete strong {
+    color: rgb(255, 51, 0);
+}
+
+.lista-itens {
+    background-color: #ccc;
+}
+
+.carousel img {
+    height: 600px;
+}
+
+.card-main {
+    margin-top: 60px;
+}
+
+.card img {
+    height: 275.89px;
+}
+
+.nav-main {
+    background-color: #ccc;
+    padding: 12px;
+}
+
+.nav-main nav a {
+    text-decoration: none;
+    color: #000;
+    margin-right: 4.5rem;
+    font-weight: bold;
+}
+
+.nav-main nav a:hover {
+    text-decoration: underline;
+    color: rgb(255, 51, 0);
+    font-weight: bold;
+}
+
+.search {
+    position: relative;
+    margin-left: 20%;
+}
+
+.search ::placeholder{
+    color: #ccc;
+}
+
+#search {
+    position: absolute;
+    height: 20px;
+    top: 9px;
+    right: 9px;
+}
+
+.footer {
+    margin-top: 40px;
+    background-color: #484848;
+    color: #fff;
+    text-align: center;
+    padding: 8px;
+}
+
+.footer a {
+    font-weight: bold;
+    text-decoration: none;
+    color: #fff;
+}
+
+.footer a:hover {
+    text-decoration: underline;
+}
+
+nav li {
+    font-weight: bold;
+}
+
+nav li img {
+    height: 25px;
+}
+
+@media  screen and (max-width: 767px) {
+
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+    
+}
+
+@media screen and (min-width: 1024px) {
+
+}
